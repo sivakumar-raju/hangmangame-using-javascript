@@ -1,0 +1,84 @@
+
+#intropage{
+   text-align: center;
+}
+    
+#play{
+    border-radius: 57px;
+    width: 100px;
+    margin-left: 43rem;
+    margin-top: 100px;
+    padding: 19px;
+    font-size: 22px;
+    box-shadow: 2px blueviolet;
+    background-color: #58efa1
+}
+#singlepage
+{
+    display:none;
+    width:100%;
+    height:70%;
+    text-align: center;
+    margin-top: 100px;
+}
+#singlepage > p{
+    font-size: 30px;
+}
+#songs{
+    width: 100px;
+    margin: 10px;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 45px;
+    background-color: #f44919;
+}
+#challenge{
+    width: 100px;
+    margin: 10px;
+    font-size: 22px;
+    padding: 10px;
+    border-radius: 45px;
+    background-color: #f44919;
+}
+
+#gamepage
+{
+    display:none;
+    width:100%;
+    height:70%;
+}
+#letterBank {
+        margin-left: 130px;
+        margin-top: 25px;
+}
+#letterBank div
+{
+    float: left;
+    font-size: 15px;
+    margin: 7px;
+    background-color: #FF5722;
+    cursor: pointer;
+    padding: 12px;
+    border-radius: 18px;
+}
+#gamepage{
+    text-align: center;
+}
+#gamepage > p{
+        font-size: 20px;
+}
+#mistakes{
+         margin-top: 60px;
+}
+#wordwrap{
+        display: inline-flex;
+
+}
+#underline1, #underline2, #underline3, #underline4, #underline5, #underline6, #underline7, #underline8, #underline9, #underline10{
+    margin-left: 10px;
+    width: 32px;
+}
+#endPage{
+    display: none;
+    text-align: center;
+}
